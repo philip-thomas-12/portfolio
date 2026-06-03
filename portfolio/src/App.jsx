@@ -29,6 +29,7 @@ export default function Portfolio() {
     "PostgreSQL",
     "MongoDB",
     "Data Structures",
+    "Data Optimization",
     "Algorithms",
     "Web Development",
     "Machine Learning",
